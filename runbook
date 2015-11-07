@@ -1,0 +1,4 @@
+This file is used as a reference on how to run the Flume Twitter Integration example.
+
+The basic Flow of the  
+Twitter--->Flume--->HDFS
